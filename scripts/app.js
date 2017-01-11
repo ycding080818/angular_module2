@@ -37,6 +37,14 @@
 		  {
 		    name: "Chocolate",
 		    quantity: "5"
+		  },
+		  {
+		    name: "Apple",
+		    quantity: "8"
+		  },
+		  {
+		    name: "Juice",
+		    quantity: "10"
 		  }];
 
 		  var boughtItems = [];
